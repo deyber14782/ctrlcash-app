@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "236448837791",
+    "project_id": "ctrl-cash",
+    "storage_bucket": "ctrl-cash.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236448837791:android:50927f43e9ad79acde72aa",
+        "android_client_info": {
+          "package_name": "com.ctrlcash.ctrlcashapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-1Xpd9z5SM61H3F4cjG77fAZLXmO4Wpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
